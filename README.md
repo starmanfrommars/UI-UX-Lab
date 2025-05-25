@@ -21,3 +21,16 @@
 8. E-Commerce Website: Create a wireframe, Design and prototype Web pages including product category pages (example: mobiles, gaming consoles, Speakers), product pages in each category, buynow page, add to cart page
 9. Educational Website: Create a wireframe, Design and Prototype the UI for an educational website – Include a Homepage with footer, About Us Page, Programs page, Instructors page, Pricing page, Payments page with radial buttons. Design dropdowns for programs button
 10. Music Player App: Create a wireframe, Design and prototype the pages with a background and a Rollover button, and Song selection Page with a Home Rollover button. The third page may include animated play and pause button, play music animation, timer animation. 
+
+## Experiment File Links
+
+1. [Lab 1 - Whatsappp Updated](https://www.figma.com/design/boN2aDQu510wfo7s4xQ0mh/Lab-1---M?node-id=0-1&t=ry3Yie9nEQGnrZNW-1)
+2. [Lab 2 - Zomato Updated](wwhttps://www.figma.com/design/4BLZz2uPCo7hPGMbx2KEEK/Lab-2---M?node-id=0-1&t=cKVl0XcRsmCLxmfK-1w)
+3. [Lab 3 - Instagram Updated](https://www.figma.com/design/LjNwwvGUO4dqOAS64xKAKP/Lab-3---D?node-id=0-1&t=DtMD02AeBeIDMhHt-1)
+4. [Lab 4 - Samsung Website](https://www.figma.com/design/afW1VxOIAjVkicR23Kd91d/Lab-4---D?t=LmIeYUNlKwe4l7DY-1)
+5. [Lab 5 - Travel Agency](https://www.figma.com/design/txIiXEdsCHKXXNQoCYjKUc/Lab-5---M?node-id=0-1&t=6b9WgEJt5Tbjqz41-1)
+6. [Lab 6 - Designer Portfolio](https://www.figma.com/design/1EJu8dLPMwAk3GfobOUEBT/Lab-6---M?t=LmIeYUNlKwe4l7DY-1)
+7. [Lab 7 - Tesla Dashboard](https://www.figma.com/design/uJfsLDP5fSjyHBtu2eRqqu/Lab-7---D?node-id=2-2522&t=QNtlaeHK58IvpBIj-1)
+8. [Lab 8 - E-Commerce Website](https://www.figma.com/design/txxS39ZxUjPxiLjn8e3dEz/Lab-8---D?t=LmIeYUNlKwe4l7DY-1)
+9. [Lab 9 - Educational Website](https://www.figma.com/design/Jx2AmUZYhazY20ZtxnBGZu/Lab-9---M?node-id=0-1&t=BRywnmxMfNJ7biIM-1)
+10. [Lab 10 - Music Player App](https://www.figma.com/design/1xXdy1tV2aXOJbwQX2tP4P/Lab-10---D?t=LmIeYUNlKwe4l7DY-1)
