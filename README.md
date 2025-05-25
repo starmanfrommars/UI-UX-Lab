@@ -25,7 +25,7 @@
 ## Experiment File Links
 
 1. [Lab 1 - Whatsappp Updated](https://www.figma.com/design/boN2aDQu510wfo7s4xQ0mh/Lab-1---M?node-id=0-1&t=ry3Yie9nEQGnrZNW-1)
-2. [Lab 2 - Zomato Updated](wwhttps://www.figma.com/design/4BLZz2uPCo7hPGMbx2KEEK/Lab-2---M?node-id=0-1&t=cKVl0XcRsmCLxmfK-1w)
+2. [Lab 2 - Zomato Updated](https://www.figma.com/design/4BLZz2uPCo7hPGMbx2KEEK/Lab-2---M?node-id=0-1&t=cKVl0XcRsmCLxmfK-1w)
 3. [Lab 3 - Instagram Updated](https://www.figma.com/design/LjNwwvGUO4dqOAS64xKAKP/Lab-3---D?node-id=0-1&t=DtMD02AeBeIDMhHt-1)
 4. [Lab 4 - Samsung Website](https://www.figma.com/design/afW1VxOIAjVkicR23Kd91d/Lab-4---D?t=LmIeYUNlKwe4l7DY-1)
 5. [Lab 5 - Travel Agency](https://www.figma.com/design/txIiXEdsCHKXXNQoCYjKUc/Lab-5---M?node-id=0-1&t=6b9WgEJt5Tbjqz41-1)
